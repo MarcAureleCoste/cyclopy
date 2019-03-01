@@ -13,8 +13,7 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = 'fr'
 
-THEME = 'C:\\Users\\cmarc\\Documents\\Workspace\\cyclopy\\themes\\cyclo'
-# THEME = 'C:\\Users\\cmarc\\Documents\\Workspace\\cyclopy\\themes\\blueidea'
+THEME = '/home/cmarc/workspace/cyclopy/themes/cyclo'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
